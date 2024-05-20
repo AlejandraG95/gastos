@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="iconos">
+    <file>assets/iconos/ambienteslogo.png</file>
+    <file>assets/iconos/bloquear.png</file>
+    <file>assets/iconos/cancelar.png</file>
+    <file>assets/iconos/close.png</file>
+    <file>assets/iconos/lupa.png</file>
+    <file>assets/iconos/ok.png</file>
+    <file>assets/iconos/plus2.png</file>
+    <file>assets/iconos/printer_5758231.png</file>
+    <file>assets/iconos/printer_6355898.png</file>
+    <file>assets/iconos/printer_15827856.png</file>
+    <file>assets/iconos/trash.png</file>
+    <file>assets/iconos/usuario (1).png</file>
+    <file>assets/iconos/usuario.png</file>
+  </qresource>
+</RCC>
